@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno (si los tienes y no deben ser públicos)
+.env
+cypress.env.json
+
+# Archivos de Cypress que no siempre se quieren subir
+cypress/videos/
+cypress/screenshots/
+
+# Otros (específicos del sistema operativo o editor)
+.DS_Store
+Thumbs.db
+/dist
+/.idea
+/.vscode
