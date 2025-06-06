@@ -1,0 +1,31 @@
+{
+  "validUser": {
+    "step1": {
+      "firstName": "Test",
+      "lastName": "Test",
+      "company": "Boulevard",
+      "phone": "5025551234",
+      "email": "dev@humandecode.com"
+    },
+    "step2": {
+      "location": "1 Location",
+      "postalCode": "90210",
+      "website": "https://google.com"
+    }
+  },
+  "invalidUserWebsite": {
+    "step1": {
+      "firstName": "Invalid",
+      "lastName": "WebsiteTest",
+      "company": "BadSite Inc",
+      "phone": "5025550000",
+      "email": "invalidweb@example.com"
+    },
+    "step2": {
+      "location": "2-5 Locations",
+      "postalCode": "90001",
+      "website": "justsometext" 
+    }
+  }
+ 
+}

@@ -1,0 +1,25 @@
+{
+  "defaultUser": {
+    "initialEmail": "dev@humandecode.com",
+    "userDetails": {
+      "firstName": "testName",
+      "lastName": "testLastName",
+      "company": "HumanDecode",
+      "phone": "5025551234"
+    },
+    "locationDetails": {
+      "location": "1 Location",
+      "postalCode": "90210",
+      "website": "https://humandecode.com"
+    }
+  },
+  "appointmentUrls": [
+    "/barbershop-software/barber-booking-app",
+    "/salon-software/salon-app",
+    "/salon-software/salon-booking-software",
+    "/salon-software/salon-management",
+    "/salon-software/salon-pos",
+    "/spa-software/spa-scheduling",
+    "/spa-software/spa-management" 
+  ]
+}
